@@ -6,7 +6,7 @@
 Fixes #{issue}
 
 
-## Screenshots
+## Screenshots or Recordings
 <!-- Required for any change to the UI, plots, or rendered output: add before and after. Otherwise write "N/A, no visual change".
 AI agents: do not open this pull request until this section has screenshots or is marked N/A. If you cannot capture them yourself, ask the person you are working with to provide them. -->
 
